@@ -11,4 +11,4 @@ untuk desain semikonduktor
 </ul>
 
 <br />Muhammad Dakita Ghifari Al-Ayyubi
->br />Departemen Teknik Elektro ITS
+<br />Departemen Teknik Elektro ITS
